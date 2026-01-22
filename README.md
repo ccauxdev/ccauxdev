@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.com/users/SEU_ID_DISCORD">
+  <a href="https://discord.gg/759500152179523597">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
   <a href="https://instagram.com/SEU_INSTAGRAM">

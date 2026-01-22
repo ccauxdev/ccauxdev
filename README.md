@@ -10,7 +10,7 @@
 
 <p align="center">
   <img 
-    src="https://skillicons.dev/icons?i=java,js,ts,mysql" 
+    src="https://skillicons.dev/icons?i=java,js,ts,py,mysql" 
   />
 </p>
 

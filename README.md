@@ -32,7 +32,7 @@ Currently studying Cybersecurity and expanding my knowledge in low-level and hig
   <a href="https://github.com/ccauxdev">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://linkedin.com/in/seu-link-aqui">
+  <a href="https://www.linkedin.com/in/cau%C3%A3-robson-candeias-altino-70506b3a4/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/seu-link-aqui">

@@ -1,42 +1,33 @@
-<h1 align="center">Hi, I'm Cauã 👋</h1>
+<h1 align="center">Cauã</h1>
 
 <p align="center">
-  Aspiring Software Developer <br>
-  Currently learning Java, JavaScript and SQL
+  Backend Developer | Cybersecurity Student
 </p>
 
 ---
 
-## 💻 About Me
+## 👨‍💻 About Me
 
-- 🎓 Software Development Student
-- 🔐 Focused on Backend and Cybersecurity
-- 📚 Currently learning Java, JavaScript and SQL
-- 🚀 Constantly improving my programming skills
-- 🌎 Based in Brazil
+I am a Backend Developer focused on building secure, scalable, and efficient systems.  
+Currently studying Cybersecurity and expanding my knowledge in low-level and high-performance programming with Rust.  
+
+I am constantly improving my backend development skills, working with databases, APIs, and modern development practices.
 
 ---
 
-## 🛠️ Languages & Technologies
+## 🛠️ Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java" height="50"/>
   <img src="https://skillicons.dev/icons?i=javascript" height="50"/>
+  <img src="https://skillicons.dev/icons?i=typescript" height="50"/>
+  <img src="https://skillicons.dev/icons?i=rust" height="50"/>
   <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
 </p>
 
 ---
 
-## 📈 Goals
-
-- Beginner Java for backend development
-- Build real-world projects
-- Strengthen SQL and database design knowledge
-- Improve problem-solving skills
-
----
-
-## 📫 Connect With Me
+## 📫 Contact
 
 <p align="center">
   <a href="https://github.com/ccauxdev">

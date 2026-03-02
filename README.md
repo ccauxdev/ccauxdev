@@ -9,6 +9,7 @@
 ## 👨‍💻 About Me
 
 I am a Backend Developer.
+
 Currently studying Cybersecurity and expanding my knowledge in low-level and high-performance programming with Rust.  
 
 ---
